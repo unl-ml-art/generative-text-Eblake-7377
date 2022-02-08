@@ -1,8 +1,6 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@unl.edu
-
-(Your teammate's contact info, if appropriate)
+Ebben Blake, eblake3@huskers.unl.edu
 
 ## Abstract
 
