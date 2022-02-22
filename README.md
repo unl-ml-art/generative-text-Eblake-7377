@@ -15,18 +15,18 @@ The first two images are examples from the first database used to generate the t
 Here is the an example of the new Ascii art used in the database that created a more promising output.
 
     ....,       ,....
-.' ,,, '.   .' ,,, '.
- .`   `.     .`   `.
-: ..... :   : ..... :
-:`~'-'-`:   :`-'-'~`:
- `.~-`.'     `.~`'.'
-   ```   ___   ```
-       ( . . )
+  .' ,,, '.   .' ,,, '.
+   .`   `.     .`   `.
+  : ..... :   : ..... :
+  :`~'-'-`:   :`-'-'~`:
+   `.~-`.'     `.~`'.'
+     ```   ___   ```
+         ( . . )
 
-        .._..
-      .'     '.   ScS
-     `.~~~~~~~.`
-       `-...-`
+          .._..
+        .'     '.   ScS
+       `.~~~~~~~.`
+         `-...-`
 
 
 
