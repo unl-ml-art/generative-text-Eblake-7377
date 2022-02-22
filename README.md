@@ -22,8 +22,8 @@ The first two images are set to a high resolution and the last one is set to a m
 ## Code
 
 Your code for generating your project:
-- training_code.py or training_code.ipynb - your training code
--generative_code.ipynb
+- training_code.ipynb 
+- generative_code.ipynb
 
 ## Results
 
