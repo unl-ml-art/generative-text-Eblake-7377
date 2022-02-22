@@ -4,7 +4,7 @@ Ebben Blake, eblake3@huskers.unl.edu
 
 ## Abstract
 
-I plan to create text generated images using GPT-2. Creating a database of typed images (examples shown below) I plan to create other images. I have found a website that converts images into text, by colecting a range of photos I hope that I will be able to produce a handful of text that creates some sort of an image. Each generated Ascii art piece will be placed in an space where it could potentially live. Since these images will serve as a "art series" an artist statment will be needed. I will organize an artist statement so that the text generator can create some sort of personality for the artist as well as the "process" or materials used to make the art. For the final deliverable, I want to create photos that document "the gallerty" either by creating a space in unreal engine or therough adobe demisions. Using these photos of the gallery, I could make a fake page that belongs to the artist.
+I plan to create text generated images using GPT-2. Creating a database of typed images (examples shown below) I plan to create other images. I have found a website that converts images into text, by colecting a range of photos I hope that I will be able to produce a handful of text that creates some sort of an image. Each generated Ascii art piece will be placed in an space where it could potentially live. Since these images will serve as a "art series" an artist statment or a spotlight will be needed. I will create statment using the GPT-3 model. For the final deliverable, I want to create photos that document "the work" either by creating a space in unreal engine, through adobe demisions, or photoshop. Using these photos of the gallery/work , I plan to make a blog post for the artist.
 
 The first two images are examples from the first database used to generate the text.
 
@@ -12,7 +12,41 @@ The first two images are examples from the first database used to generate the t
 
 ![image](https://user-images.githubusercontent.com/83600906/152912516-21a4713f-fd5e-40d5-a705-3aa85f1e3d29.png)
 
-Here is the new Ascii art used in
+Here is the an example of the new Ascii art used in the database that created a more promising output.
+
+                 ,     ,  ._  ,
+                _.MMmm.mMm_Mm.MMm_:mMMmmm.._  .
+           _ .-mmMMMMMMMMMMMMm:MMm:MMMMMMMMMm._
+            `-.mm.MMMMMMM:MMMMMMMmmMMMMMMMMMmm._
+         _.mMMMMMmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"~.
+          .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm._
+         _.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm._
+      ..mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmmm.
+     _.mmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.
+      _.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm_
+  .mmMMMMMMMMMMMMMMMMMMMMMMMM' `MMMMMMMMMMMMMMMMMMMMMMm,
+ _.-' _.mMMMMMMMMMMMMMMMMMMM'      `MMMMMMMMMMMMMMMM""`
+  _,MMMmMMMMMMMMMMMMMMMM'            `MMMMMMMMMMMMMMmm.
+    _.-'MMMMMMMMMMMMMMM.'""`.    ,'""`.MMMMMMMMMMMMMMMM.
+   .mmMMMMMMMMMMMMMMMM' <(o)>`  '<(o)>` MMMMMMMMMMMMMMMm.
+      .MMMMMMMMMMMMMMM                 'MMMMMMMMMMMMMMM:
+   ,MMMmMMMMMMMMMMMMM'                 `MMMMMMMMMMMMmm.
+  ,ME:MMMMMMMMMMMMMM_6       -  -       7_MMMMMMMMM:Mm_
+  !M:MmmMMMMMMMMMMMMML_                _JMMMMMMMMMm:MMm.
+  '':mMMMMMMMMMMMMMMMM\     ______     /dMMMMMMMMMMM:'Mm.
+   ':MMM:MMMMMMMMMMMMMM\    `.__.'    /MMMMMM:MMMMMMm: `
+  .M:MMM:MMMMMMMMMMMMMMM`.          ,'MMMMMMM:MMMMMMMm
+    .Mm:mMMMMMMMMMMMMMMM| `.      .' |MMMMMMm:.MMMMM.
+   .Mm:mMMMMMMMMMMMMMMMM|   `----':: |MMMMMMMmm`MMMMMm.
+     !:mMMMMMMMMMMMMMMMM|      ::::. |MMMMMMMMMMM``mMm.
+       !MMMMMMMMM'MMMMMM|      .:::. |MMMMMMMMMMMMM.._
+       MMMMMMMMM'MMMM'M/       ::::'  \MMMMMMMMMMMMMMm,
+      .mMMMMMMM'MMMM'MMm.       '     .`".MMMMMMMMMMMMm.
+       !!JmMMM'MMM' `M:.      ,  ,     .. M.".MMMMMMMMm.
+        FMMMMMm.`M   M..              .. `Mm   `"".MMMmm.
+        MMMM'    M      ..           ..    `M      MM`.M!
+        Mm'               ..        ..      M      M'   \
+        /                                                \
 
 
 
