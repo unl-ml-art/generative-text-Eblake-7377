@@ -14,39 +14,19 @@ The first two images are examples from the first database used to generate the t
 
 Here is the an example of the new Ascii art used in the database that created a more promising output.
 
-                 ,     ,  ._  ,
-                _.MMmm.mMm_Mm.MMm_:mMMmmm.._  .
-           _ .-mmMMMMMMMMMMMMm:MMm:MMMMMMMMMm._
-            `-.mm.MMMMMMM:MMMMMMMmmMMMMMMMMMmm._
-         _.mMMMMMmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"~.
-          .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm._
-         _.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm._
-      ..mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmmm.
-     _.mmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.
-      _.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm_
-  .mmMMMMMMMMMMMMMMMMMMMMMMMM' `MMMMMMMMMMMMMMMMMMMMMMm,
- _.-' _.mMMMMMMMMMMMMMMMMMMM'      `MMMMMMMMMMMMMMMM""`
-  _,MMMmMMMMMMMMMMMMMMMM'            `MMMMMMMMMMMMMMmm.
-    _.-'MMMMMMMMMMMMMMM.'""`.    ,'""`.MMMMMMMMMMMMMMMM.
-   .mmMMMMMMMMMMMMMMMM' <(o)>`  '<(o)>` MMMMMMMMMMMMMMMm.
-      .MMMMMMMMMMMMMMM                 'MMMMMMMMMMMMMMM:
-   ,MMMmMMMMMMMMMMMMM'                 `MMMMMMMMMMMMmm.
-  ,ME:MMMMMMMMMMMMMM_6       -  -       7_MMMMMMMMM:Mm_
-  !M:MmmMMMMMMMMMMMMML_                _JMMMMMMMMMm:MMm.
-  '':mMMMMMMMMMMMMMMMM\     ______     /dMMMMMMMMMMM:'Mm.
-   ':MMM:MMMMMMMMMMMMMM\    `.__.'    /MMMMMM:MMMMMMm: `
-  .M:MMM:MMMMMMMMMMMMMMM`.          ,'MMMMMMM:MMMMMMMm
-    .Mm:mMMMMMMMMMMMMMMM| `.      .' |MMMMMMm:.MMMMM.
-   .Mm:mMMMMMMMMMMMMMMMM|   `----':: |MMMMMMMmm`MMMMMm.
-     !:mMMMMMMMMMMMMMMMM|      ::::. |MMMMMMMMMMM``mMm.
-       !MMMMMMMMM'MMMMMM|      .:::. |MMMMMMMMMMMMM.._
-       MMMMMMMMM'MMMM'M/       ::::'  \MMMMMMMMMMMMMMm,
-      .mMMMMMMM'MMMM'MMm.       '     .`".MMMMMMMMMMMMm.
-       !!JmMMM'MMM' `M:.      ,  ,     .. M.".MMMMMMMMm.
-        FMMMMMm.`M   M..              .. `Mm   `"".MMMmm.
-        MMMM'    M      ..           ..    `M      MM`.M!
-        Mm'               ..        ..      M      M'   \
-        /                                                \
+    ....,       ,....
+.' ,,, '.   .' ,,, '.
+ .`   `.     .`   `.
+: ..... :   : ..... :
+:`~'-'-`:   :`-'-'~`:
+ `.~-`.'     `.~`'.'
+   ```   ___   ```
+       ( . . )
+
+        .._..
+      .'     '.   ScS
+     `.~~~~~~~.`
+       `-...-`
 
 
 
@@ -76,6 +56,6 @@ Any implementation details or notes we need to repeat your work.
 
 References to any papers, techniques, repositories you used:
 - Papers
-  - [This is a paper](https://saatchi-art.webnode.page/)
+  -https://saatchi-art.webnode.page/
 - Repositories
 - Blog posts
