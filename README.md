@@ -36,9 +36,7 @@ Your code for generating your project:
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+I use Open Ondemand as well as OpenAI to create the Ascii art and the blog post for the website, the tempate i used and published it from was from Webnode. Creating the photographs of the hand picked Ascii art I used potoshop and images from pexel.com
 
 ## Reference
 
